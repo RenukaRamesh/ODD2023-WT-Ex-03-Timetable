@@ -1,4 +1,4 @@
-# Ex-04-Timetable
+# Timetable
 Name   :Ramesh Renuka
 Ref No :23009428
 ## AIM
